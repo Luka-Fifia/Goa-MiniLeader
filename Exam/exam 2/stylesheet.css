@@ -1,0 +1,46 @@
+#Goa_Main{
+    font-family: cursive;
+    background: darkcyan;
+    font-size: xx-large;
+    text-align: center;
+    border: 20px solid rgb(23, 62, 135);
+}
+
+#nav{
+    font-family: cursive;
+  background-color: goldenrod;
+  font-size: xx-large;
+  width: fit-content;
+  text-align: center;
+  margin: auto;
+
+}
+
+#a{
+    font-family: cursive;
+  font-size: 29px;
+  text-align: center;
+  font-weight: bold;
+  background-color: cadetblue;
+  border: 5px solid black;
+}
+
+#b{
+    margin-top: 10px;
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(227, 128, 128);
+    border: 5px solid black;
+}
+
+#masw{
+    margin-top: 10px;
+    font-family: cursive;
+    font-size: 29px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(169, 247, 124);
+    border: 5px solid black;
+}
